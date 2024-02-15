@@ -25,9 +25,9 @@ The project structure follows POM (Page Object) and is organized as follows:
 
 Dependency Software List:
 - Appium Server 2.0.0
-- Java version "20.0.0"
+- Java version "1.8.0_291"
 - Android Studio (Optional)
-- Node.js (18) and npm (9.6.7)
+- Node.js (18) and npm (9.5.1)
 - Android SDK
 - ADB (Android Debug Bridge)
 - WebDriver Library (Appium-Python-Client)
